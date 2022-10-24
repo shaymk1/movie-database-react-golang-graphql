@@ -1,1 +1,0 @@
-# movie-database-react-golang-graphql
